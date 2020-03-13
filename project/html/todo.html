@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+  <link rel="stylesheet" href="../css/style.css" />
+
+  <title>TODO list</title>
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12">
+        <div class="font-weight-bolder text-center">
+          <img src="../img/title.png" alt="title_img" width="400" height="100" />
+        </div>
+
+        <div class="text-center">
+          <button type="button" id="switch_list_btn" class="btn btn-success btn-lg mb-3">
+            Show completed
+          </button>
+        </div>
+
+        <div class="input-group mb-3" id="input_block">
+          <div id="board">
+            <input type="text" class="form-control" placeholder="Type your TODO here" id="todo" />
+            <input type="date" class="form-control" id="todoDate" />
+            <input type="time" class="form-control" id="todoTime" />
+          </div>
+        </div>
+        <div>
+          <button class="btn btn-danger" type="button" id="add_button">
+            Add TODO
+          </button>
+          <button class="btn btn-warning" type="button" id="clearStorage">
+            clear local storage
+          </button>
+
+        </div>
+
+        <div class="alert alert-danger d-none" role="alert" id="alert_box"></div>
+
+        <ul class="flex-container" id="todo_list"></ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="../js/main.js"></script>
+</body>
+
+</html>

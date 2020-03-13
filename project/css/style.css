@@ -1,0 +1,44 @@
+body {
+  background-image: url("../img/tile.jpg");
+}
+
+li {
+  width: 200px;
+  position: relative;
+  height: 200px;
+  display: inline-block;
+  overflow: auto;
+  background-image: url("../img/notebg.png");
+  padding-top: 24px;
+  padding-right: 25px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  text-align: left;
+}
+
+#board {
+  background-image: url("../img/formbg.jpg");
+  left: 250px;
+  margin: auto;
+  height: 200px;
+  width: 400px;
+}
+
+#todo,
+#todoDate,
+#todoTime {
+  background-color: transparent !important;
+  outline: none;
+  border: none;
+  margin-left: 16%;
+  font-weight: 800;
+}
+
+#add_button {
+  margin-left: 47%;
+}
+
+#todoDate,
+#todoTime {
+  width: max-content;
+}
