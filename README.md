@@ -1,3 +1,3 @@
 # fullstack
-fullstack-web-developer caurse at john bryce college
+fullstack-web-developer caurse at john bryce college \n
 products - sdfdgdfg
