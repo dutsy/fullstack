@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "pname": "product 3333",
+      "price": 20,
+      "stock": 200,
+      "id": 3
+    },
+    {
+      "price": 4.4,
+      "stock": 45,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "pname": "products 5",
+      "price": 1.6,
+      "stock": 30
+    },
+    {
+      "id": 6,
+      "pname": "products 6",
+      "price": 7.9,
+      "stock": 21
+    },
+    {
+      "pname": "lala li",
+      "price": 7,
+      "stock": 120,
+      "id": 12
+    },
+    {
+      "pname": "papa po",
+      "price": 10,
+      "stock": 300,
+      "id": 13
+    },
+    {
+      "pname": "pak pak",
+      "price": 8,
+      "stock": 12,
+      "id": 14
+    },
+    {
+      "pname": "aaaa",
+      "price": 12,
+      "stock": 23,
+      "id": 15
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "cname": "customer 1"
+    },
+    {
+      "id": 2,
+      "cname": "customer 2"
+    },
+    {
+      "id": 3,
+      "cname": "customer 3"
+    },
+    {
+      "id": 4,
+      "cname": "customer 4"
+    },
+    {
+      "id": 5,
+      "cname": "customer 4"
+    }
+  ]
+}
