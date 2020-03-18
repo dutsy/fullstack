@@ -1,9 +1,6 @@
 # fullstack
-fullstack-web-developer caurse at john bryce college
+fullstack-web-developer caurse at john bryce college written by Qussay Firon.
 
-## fullstack
-
-### fullstack
-###### ubllstack
+##projects
 
 [Contribution guidelines for this project](Products)
