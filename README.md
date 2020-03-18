@@ -7,7 +7,7 @@ fullstack-web-developer caurse at john bryce college written by Qussay Firon.
 
 [Register](Register) - registration authorization form.
 
-[circle area](circlearea) - calculate circle area and print it.
+[circle area](circle-area) - calculate circle area and print it.
 
 [project](project) - to-do list project.
 
